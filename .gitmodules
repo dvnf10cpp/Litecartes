@@ -1,0 +1,6 @@
+[submodule "litecartes-be"]
+	path = litecartes-be
+	url = https://github.com/devanfer02/litecartes-be
+[submodule "litecartes-frontend"]
+	path = litecartes-frontend
+	url = https://github.com/ryoaditarta/litecartes-frontend
