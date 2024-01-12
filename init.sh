@@ -13,8 +13,9 @@ echo "server side setup almost done"
 echo "please configure .env and firebase sdk json"
 echo "read litecartes-be/README.md for more guidance"
 
-# setup client side (litecartes-frontend)
+cd ..
 
+# setup client side (litecartes-frontend)
 echo "initializing client side directory"
 cd "$fe"
 echo "installing required dependancies"

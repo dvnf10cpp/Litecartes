@@ -1,5 +1,20 @@
 # Litecartes
 
+
+![mockup](./public/mockup.png)
+
+Litecartes is an application made to aim address Sustainable Development Goals point 4, Quality Education. With our gamification application product, we aim to increase the literacy level and critical thinking of the future generations
+
+## Team Members
+#### Team Name : ```Kusushi```
+
+Name | &nbsp;&nbsp;&nbsp;&nbsp;Role
+-- |--
+Devan Ferrel | &nbsp;&nbsp;&nbsp;&nbsp;Hacker
+I Gusti Ngurah Ryo Adi Tarta | &nbsp;&nbsp;&nbsp;&nbsp;Hacker
+Wilson Hamonangan Ariyanto Hutapea  | &nbsp;&nbsp;&nbsp;&nbsp;Hustler
+Sarah Safira Millati | &nbsp;&nbsp;&nbsp;&nbsp;Hipster
+
 ## Setup
 To setup litecartes application client side and server side, you can follow the instructions bellow
 
@@ -30,3 +45,6 @@ chmod +x init.sh
 7. If you are scared to use the script, you can go to each directory and follow the README.md manual
 
 8. After running the bash script, configure the rest in ```litecartes-be``` and ```litecartes-frontend``` directory
+
+## API Documentation
+To read more info about server side API Documentation, you can go through the following [documentation](./litecartes-be/docs/DOCUMENTATION.md)
