@@ -22,7 +22,7 @@ To setup litecartes application client side and server side, you can follow the 
 git clone --recurse-submodules https://github.com/devanfer02/Litecartes.git
 ```
 
-2. Change to the cloned repo directory with command
+2. Change directory to the cloned repo directory with command
 ```zsh
 cd Litecartes
 ```
