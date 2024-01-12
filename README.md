@@ -2,7 +2,7 @@
 
 ![mockup](./public/mockup.png)
 
-Litecartes is an application made to aim address Sustainable Development Goals point 4, Quality Education. With our gamification application product, we aim to increase the literacy level and critical thinking of the future generations
+Litecartes is an application made to aim address Sustainable Development Goals point 4, Quality Education. With our gamification application product, we aim to increase the literacy level and critical thinking of the future generations.
 
 ## Team Members
 #### Team Name : ```Kusushi```
