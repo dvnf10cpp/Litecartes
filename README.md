@@ -1,6 +1,5 @@
 # Litecartes
 
-
 ![mockup](./public/mockup.png)
 
 Litecartes is an application made to aim address Sustainable Development Goals point 4, Quality Education. With our gamification application product, we aim to increase the literacy level and critical thinking of the future generations
@@ -8,12 +7,12 @@ Litecartes is an application made to aim address Sustainable Development Goals p
 ## Team Members
 #### Team Name : ```Kusushi```
 
-Name | &nbsp;&nbsp;&nbsp;&nbsp;Role
+Name | Role
 -- |--
-Devan Ferrel | &nbsp;&nbsp;&nbsp;&nbsp;Hacker
-I Gusti Ngurah Ryo Adi Tarta | &nbsp;&nbsp;&nbsp;&nbsp;Hacker
-Wilson Hamonangan Ariyanto Hutapea  | &nbsp;&nbsp;&nbsp;&nbsp;Hustler
-Sarah Safira Millati | &nbsp;&nbsp;&nbsp;&nbsp;Hipster
+Devan Ferrel | Hacker
+I Gusti Ngurah Ryo Adi Tarta | Hacker
+Wilson Hamonangan Ariyanto Hutapea  | Hustler
+Sarah Safira Millati | Hipster
 
 ## Setup
 To setup litecartes application client side and server side, you can follow the instructions bellow
