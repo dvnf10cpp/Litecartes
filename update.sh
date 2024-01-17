@@ -5,7 +5,7 @@ git pull origin main
 
 cd ..
 
-cd "litecartes-frontend"
+cd "litecartesProject-FrontEnd"
 git pull origin main
 
 cd ..

@@ -5,6 +5,8 @@ be_script="cmd/init.sh"
 fe="litecartes-frontend"
 
 # setup server side (litecartes-be)
+echo "-------------------------------------------------------------------------------------"
+
 echo "running litecartes easy installation"
 
 echo "======================================================================================"
